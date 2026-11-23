@@ -1,7 +1,7 @@
 # 6271-14549-ITAI-1371-3_FINAL
 
 
-## Classification Problem Methodology — 100 Points
+## Objectives: Classification Problem Methodology — 100 Points
 
 ### Preprocess the Data — 5 Points
 
